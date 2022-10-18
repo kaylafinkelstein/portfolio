@@ -1,0 +1,16 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+
+.center{
+    text-align: justify;
+    color:rgb(224, 213, 213);
+}
+
+#main{
+    text-align: justify;
+    color:rgb(223, 213, 213);
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(243, 235, 235);
+}
